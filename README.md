@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Ridhwan Habib!](https://www.linkedin.com/in/mridhwanhabib/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">, I'm [Ridhwan Habib!](https://www.linkedin.com/in/mridhwanhabib/) 
 ## About Me 🚀
 
 My Full Name Is Muhammad Ridhwan Habib Abdillah <br>
