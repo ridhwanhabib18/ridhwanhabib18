@@ -1,18 +1,60 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">, I'm [Ridhwan Habib!](https://www.linkedin.com/in/mridhwanhabib/) 
-## About Me 🚀
+<h1 align="center">Hi there 👋, I'm Muhammad Ridhwan Habib Abdillah, B.Eng.</h1>
+<h3 align="center">Fullstack .NET Developer | Software Engineer | AI/ML Enthusiast</h3>
 
-My Full Name Is Muhammad Ridhwan Habib Abdillah <br>
-I Am an Electrical Engingeering Student From [Universitas Gadjah Mada](https://www.ugm.ac.id/)<br>
-If You Want To Know Me More, you can follow my [LinkedIn](https://www.linkedin.com/in/mridhwanhabib/) account<br>
-I Interested in IoT, Machine Learning, Arduino, PLC, and Robotics.
+---
 
-<p align="left">
-<a href="https://github.com/ridhwanhabib18">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ridhwanhabib18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ridhwanhabib18&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+### 💡 About Me
+- 🇮🇩 From **Indonesia**, passionate about software engineering, automation systems, and artificial intelligence.  
+- 💼 Currently working at **PT Indonesia Epson Industry** as a **System Development Staff**.  
+- 💻 Experienced in **.NET, React, SQL Server, and Azure**.  
+- 🤖 Excited to explore **AI, ML, and IoT** solutions for real-world problems.  
+- 🌍 Open for **remote opportunities or relocation** — especially to **Canada, Singapore, or Europe**.  
+
+---
+
+### 🧰 Tech Stack
+**Languages:** C#, JavaScript, Python, C++, SQL  
+**Frameworks:** ASP.NET Core, React, Node.js, TensorFlow  
+**Database:** SQL Server, MySQL  
+**Tools:** Azure, Git, Docker, Arduino, Firebase  
+**Other:** Clean Architecture, REST API Design, ML Model Deployment  
+
+---
+
+### 🏢 Professional Experience
+- **System Development Staff @ PT Indonesia Epson Industry** (2022–Present)  
+  Designed and built internal workflow automation systems using .NET & React, reducing manual processes and increasing operational efficiency.  
+
+- **Embedded Systems Engineer Intern @ Xirka Silicon Technology** (2020)  
+  Worked on hardware communication and microcontroller systems using C and C++.  
+
+---
+
+### 🧠 Highlighted Projects
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [**Epson Internal Workflow System**](https://github.com/ridhwanhabib18/Fullstack-Web-System) | Automated internal approval system improving task speed by 40%. | .NET, React, SQL Server |
+| [**IoT Coffee Roaster**](https://github.com/ridhwanhabib18/IoT-Temperature-Control) | IoT-based gas temperature control using Arduino and PID logic. | Arduino, C++, Sensors |
+| [**Mandu.in (Bangkit 2022)**](https://github.com/ridhwanhabib18/Mandu.in-ML) | AI-powered food recognition and nutrition recommendation app. | TensorFlow, Flask, Kotlin |
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ridhwanhabib18&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhwanhabib18&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
- 
-## My Experiences
-- 👷 Member of Electrical and Electronic Division in Gadjah Mada Robotic Team (Oct,2019 - Feb,2022)
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mridhwanhabib/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:eng.ridhwan18@gmail.com"><img src="https://img.shields.io/badge/Email-white?logo=gmail&logoColor=red" /></a>
+  <a href="https://github.com/ridhwanhabib18" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ **“Code with purpose. Build for impact.”**
