@@ -67,7 +67,7 @@ PT Xirka Silicon Technology is an Indonesian fabless semiconductor company that 
 | [**Avocado - Epson Internal Workflow System and Part Inspection System**](https://github.com/ridhwanhabib18/Fullstack-Web-System) | Automated internal approval system for enterprise workflow. | .NET Framework 4.7, jQuery, SQL Server, MySQL, Github, CI/CD, YAML, Telerik, Kendo | This Documentation is Confidential |
 | [**APPOLLO - Epson Internal Automation of Distribution File and Monitoring System for Scanner and Printer Production**](https://github.com/ridhwanhabib18/Fullstack-Web-System) | Automated internal approval system for enterprise workflow. | .NET 6, React, TS, SQL Server, Kendo, Github, CI/CD, YAML, Kendo | This Documentation is Confidential |
 | [**IoT Coffee Roaster Control**](https://github.com/ridhwanhabib18/IoT-Temperature-Control) | PID-controlled gas roaster system using Arduino and sensors. | Arduino, C++, C#, WPF, .NET Framework 4.8 | |
-| [**Mandu.in (Bangkit 2022)**](https://github.com/ridhwanhabib18/Mandu.in-ML) | AI app for food recognition and nutrition analysis. | TensorFlow, Flask, Kotlin | |
+| [**Mandu.in (Bangkit 2022)**](https://github.com/ridhwanhabib18/Mandu.in-ML) | AI mobile app for Landmark and Tourism recognition with Image Classification. | TensorFlow, Flask, Kotlin | |
 
 ---
 
