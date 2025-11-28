@@ -61,7 +61,10 @@ PT Xirka Silicon Technology is an Indonesian fabless semiconductor company that 
 
 | Project | Description | Stack | Documentation |
 |----------|--------------|--------|---------------|
-| [**Epson Internal Workflow System**](https://github.com/ridhwanhabib18/Fullstack-Web-System) | Automated internal approval system for enterprise workflow. | .NET, React, SQL Server | This Documentation is Confidential |
+| [**Workflow Invoice Paperless and Payment System - Epson Internal Automation for Invoice and Debit Note Verification and Payment Process System**](https://github.com/ridhwanhabib18/Fullstack-Web-System) | Automated internal approval system for enterprise workflow. | .NET 8, React, SQL Server, Kendo | This Documentation is Confidential |
+| [**MATRIX - Epson Internal Automation of Scheduling, Calculation Process and Production Planning for Part Production**](https://github.com/ridhwanhabib18/Fullstack-Web-System) | Automated internal approval system for enterprise workflow. | .NET 10, React, SQL Server, Kendo | This Documentation is Confidential |
+| [**Avocado - Epson Internal Workflow System and Part Inspection System**](https://github.com/ridhwanhabib18/Fullstack-Web-System) | Automated internal approval system for enterprise workflow. | .NET Framework 4.7, jQuery, SQL Server, MySQL, Telerik, Kendo | This Documentation is Confidential |
+| [**APPOLLO - Epson Internal Automation of Distribution File and Monitoring System for Scanner and Printer Production**](https://github.com/ridhwanhabib18/Fullstack-Web-System) | Automated internal approval system for enterprise workflow. | .NET 6, React, SQL Server, Kendo | This Documentation is Confidential |
 | [**IoT Coffee Roaster Control**](https://github.com/ridhwanhabib18/IoT-Temperature-Control) | PID-controlled gas roaster system using Arduino and sensors. | Arduino, C++, IoT | |
 | [**Mandu.in (Bangkit 2022)**](https://github.com/ridhwanhabib18/Mandu.in-ML) | AI app for food recognition and nutrition analysis. | TensorFlow, Flask, Kotlin | |
 
