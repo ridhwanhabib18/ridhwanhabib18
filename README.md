@@ -33,13 +33,17 @@
 ### 🏢 Professional Experience
 
 **System Development Staff — PT Indonesia Epson Industry (Dec 2022 – Present)**  
-- Built and automated workflow systems using **ASP.NET Core** and **React**.  
-- Improved production data accuracy and reduced human error by 40%.  
+PT Indonesia Epson Industry is a large-scale manufacturing company specializing in the production of high-quality printers and imaging products.  
+- Developed and automated a **production monitoring system** integrated with web and desktop applications for efficient printer inspection distribution, improving productivity and reducing human error.
 - Developed inspection applications and business process tools across departments.
+- Designed and implemented **workflow-based application solutions** to streamline internal business processes at Epson and its vendors, accelerating task completion times and improving operational efficiency.  
+- Built **production part inspection applications** leveraging technologies to improve inspection accuracy and speed, reducing product defects and enhancing overall quality.  
+- Built systems using **C#**, **ASP.NET Core**, **React**, **Vue**, **jQuery**, **TypeScript**, **JavaScript**, **MySQL**, and **MSSQLServer**, with strong expertise in database management and processing using **MySQL** and **SQL Server**.  
 
 **Embedded System Engineer Intern — PT Xirka Silicon Technology (Jan 2020 – Feb 2020)**  
-- Designed and tested **RS-232/RS-485 communication modules** for embedded boards.  
-- Developed C/C++ programs for microcontroller systems.
+PT Xirka Silicon Technology is an Indonesian fabless semiconductor company that designs integrated circuits and chipsets.  
+- Designed and implemented **RS-232 and RS-485 communication modules** on the Xirka Arduensia Development Board to optimize serial communication.  
+- Developed embedded system programs with proficiency in **Arduino**, **C**, and **C++** programming languages.  
 
 ---
 
