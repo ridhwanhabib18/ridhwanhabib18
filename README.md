@@ -38,7 +38,7 @@ PT Indonesia Epson Industry is a large-scale manufacturing company specializing 
 - Developed inspection applications and business process tools across departments.
 - Designed and implemented **workflow-based application solutions** to streamline internal business processes at Epson and its vendors, accelerating task completion times and improving operational efficiency.  
 - Built **production part inspection applications** leveraging technologies to improve inspection accuracy and speed, reducing product defects and enhancing overall quality.  
-- Built systems using **C#**, **ASP.NET Core**, **React**, **Vue**, **jQuery**, **TypeScript**, **JavaScript**, **MySQL**, and **MSSQLServer**, with strong expertise in database management and processing using **MySQL** and **SQL Server**.  
+- Built systems using **C#**, **ASP.NET Core**, **React**, **Vue**, **jQuery**, **TypeScript**, **JavaScript**, **MySQL**, and **SQL Server**, with strong expertise in database management and processing using **MySQL** and **SQL Server**.  
 
 **Embedded System Engineer Intern — PT Xirka Silicon Technology (Jan 2020 – Feb 2020)**  
 PT Xirka Silicon Technology is an Indonesian fabless semiconductor company that designs integrated circuits and chipsets.  
