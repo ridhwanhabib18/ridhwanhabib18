@@ -20,6 +20,16 @@
 - 🧠 Interested in **Software Development, AI, ML, and IoT** projects that solve real-world problems.  
 - 🚀 Open to **remote or relocation opportunities** in **Canada, Singapore, Australia or Europe**.  
 
+### 🎓 Education
+**Universitas Gadjah Mada** — Special Region of Yogyakarta, Indonesia  
+Bachelor of Electrical Engineering (Specialization in Control Systems), GPA: **3.47/4.00**  
+*Aug 2018 – Oct 2022*  
+- Machine Learning Path Student from Google Bangkit 2022  
+- Electronic Design Engineer at Gadjah Mada Robotic Team  
+- Lab Assistant for Digital and Microprocessor Lab Work  
+- Lab Assistant for Basic Electronics Lab Work  
+- Lab Assistant for Basic Electrical Engineering Lab Work  
+
 ---
 
 ### 🧰 Tech Stack
