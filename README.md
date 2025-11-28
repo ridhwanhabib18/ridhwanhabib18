@@ -16,7 +16,7 @@
 ### 💡 About Me
 - 🌍 From **Indonesia**, passionate about software engineering, AI, and embedded systems.  
 - 💼 Working as a **System Development Staff** at *PT Indonesia Epson Industry*.  
-- 💻 Experienced with **C#, ASP.NET Core, React, SQL Server, and Azure**.  
+- 💻 Experienced with **C#, ASP.NET Core, TypeScript, JavaScript, React, SQL Server, MySQL, and AWS**.  
 - 🧠 Interested in **AI, ML, and IoT** projects that solve real-world problems.  
 - 🚀 Open to **remote or relocation opportunities** in **Canada, Singapore, or Europe**.  
 
