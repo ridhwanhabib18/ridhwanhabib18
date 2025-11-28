@@ -49,11 +49,11 @@ PT Xirka Silicon Technology is an Indonesian fabless semiconductor company that 
 
 ### 🧩 Featured Projects
 
-| Project | Description | Stack |
-|----------|--------------|--------|
-| [**Epson Internal Workflow System**](https://github.com/ridhwanhabib18/Fullstack-Web-System) | Automated internal approval system for enterprise workflow. | .NET, React, SQL Server |
-| [**IoT Coffee Roaster Control**](https://github.com/ridhwanhabib18/IoT-Temperature-Control) | PID-controlled gas roaster system using Arduino and sensors. | Arduino, C++, IoT |
-| [**Mandu.in (Bangkit 2022)**](https://github.com/ridhwanhabib18/Mandu.in-ML) | AI app for food recognition and nutrition analysis. | TensorFlow, Flask, Kotlin |
+| Project | Description | Stack | Documentation |
+|----------|--------------|--------|---------------|
+| [**Epson Internal Workflow System**](https://github.com/ridhwanhabib18/Fullstack-Web-System) | Automated internal approval system for enterprise workflow. | .NET, React, SQL Server | This Documentation is Confidential |
+| [**IoT Coffee Roaster Control**](https://github.com/ridhwanhabib18/IoT-Temperature-Control) | PID-controlled gas roaster system using Arduino and sensors. | Arduino, C++, IoT | |
+| [**Mandu.in (Bangkit 2022)**](https://github.com/ridhwanhabib18/Mandu.in-ML) | AI app for food recognition and nutrition analysis. | TensorFlow, Flask, Kotlin | |
 
 ---
 
