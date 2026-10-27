@@ -5,11 +5,11 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Muhammad+Ridhwan+Habib+Abdillah" alt="Muhammad Ridhwan Habib Abdillah" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=4000&pause=10000&color=22D3EE&center=true&vCenter=true&width=900&lines=Muhammad+Ridhwan+Habib+Abdillah" alt="Muhammad Ridhwan Habib Abdillah" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full-Stack+.NET+Developer+%7C+Cloud+%26+AI%2FML" alt="Software Engineer | Full-Stack .NET Developer | Cloud & AI/ML" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=10000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full-Stack+.NET+Developer+%7C+Cloud+%26+AI%2FML" alt="Software Engineer | Full-Stack .NET Developer | Cloud & AI/ML" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+reliable%2C+scalable+and+maintainable+software.;Automating+workflows+to+drive+real+business+impact.;Turning+complex+problems+into+clean+solutions." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=10000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+reliable%2C+scalable+and+maintainable+software.;Automating+workflows+to+drive+real+business+impact.;Turning+complex+problems+into+clean+solutions." alt="Typing animation" />
 </p>
 
 <p align="center">
